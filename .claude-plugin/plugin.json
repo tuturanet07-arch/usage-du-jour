@@ -1,0 +1,17 @@
+{
+  "name": "usage-du-jour",
+  "version": "0.1.0",
+  "description": "Ligne d'état : messages et tokens utilisés aujourd'hui, avec une barre de progression remise à zéro chaque jour.",
+  "userConfig": {
+    "budget_tokens": {
+      "type": "number",
+      "title": "Budget quotidien de tokens",
+      "description": "Nombre de tokens qui remplit la barre de progression (100 %).",
+      "default": 1000000
+    }
+  },
+  "author": {
+    "name": "tuturanet07-arch"
+  },
+  "license": "MIT"
+}
