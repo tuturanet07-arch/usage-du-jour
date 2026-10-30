@@ -1,0 +1,5 @@
+{
+  "name": "usage-du-jour",
+  "owner": { "name": "tuturanet07-arch" },
+  "plugins": [{ "name": "usage-du-jour", "source": "./" }]
+}
